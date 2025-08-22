@@ -1,13 +1,3 @@
-<img width="1654" height="2010" alt="download (1)" src="https://github.com/user-attachments/assets/53aae332-30bf-433c-845a-7449de833f4d" />
-
-
-
-
-<img width="1972" height="1733" alt="download" src="https://github.com/user-attachments/assets/d9599245-e217-4e75-9a9d-50a43c08c9f9" />
-
-
-
-![T00001](https://github.com/user-attachments/assets/1675bc28-f99b-4a5e-882a-2ad633094c66)
 
 
 # HeLa Cell Tracking: A Deep Learning and State Machine Approach to Fixation Analysis
@@ -19,6 +9,15 @@
 This repository presents an advanced pipeline for tracking and analyzing HeLa cell behavior over time using deep learning and state machine methodologies. The primary objective is to classify cell states—**Circular**, **Fixed**, and **Dead**—based on temporal microscopy data, facilitating the study of cellular dynamics and responses to various treatments.
 
 This project was also shared on [LinkedIn](https://www.linkedin.com/posts/shehab-hegab-5303491b7_computervision-python-bioinformatics-activity-7353284358998233088-Du3W?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJrF7QBd9Oce1lYAjrVMkebIhqFwZLmCwk).
+
+<img width="1654" height="2010" alt="download (1)" src="https://github.com/user-attachments/assets/53aae332-30bf-433c-845a-7449de833f4d" />
+
+
+
+
+
+![T00001](https://github.com/user-attachments/assets/1675bc28-f99b-4a5e-882a-2ad633094c66)
+
 
 ## Key Features
 

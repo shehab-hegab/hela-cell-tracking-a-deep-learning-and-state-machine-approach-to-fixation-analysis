@@ -8,7 +8,7 @@
 
 This repository presents an advanced pipeline for tracking and analyzing HeLa cell behavior over time using deep learning and state machine methodologies. The primary objective is to classify cell states—**Circular**, **Fixed**, and **Dead**—based on temporal microscopy data, facilitating the study of cellular dynamics and responses to various treatments.
 
-This project was also shared on [LinkedIn](https://www.linkedin.com/posts/shehab-hegab-5303491b7_computervision-python-bioinformatics-activity-7353284358998233088-Du3W?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJrF7QBd9Oce1lYAjrVMkebIhqFwZLmCwk).
+This project Output in [Drive](https://drive.google.com/drive/folders/1AnM_jR6q6xhKS1b6r3Z495BEVtvLR6b_?usp=drive_link).
 
 <img width="1654" height="2010" alt="download (1)" src="https://github.com/user-attachments/assets/53aae332-30bf-433c-845a-7449de833f4d" />
 
